@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BIGJ</h1>
+<h1 align="center">Hi, I'm BIGJ</h1>
 <h3 align="center">A Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigj42&label=Profile%20views&color=0e75b6&style=flat" alt="bigj42" /> </p>
