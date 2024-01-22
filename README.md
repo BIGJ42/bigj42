@@ -6,5 +6,5 @@
   "bio": "Front - End Developer who likes making random stuff 👍. ",
   "preferred_languages": ["HTML5", "JavaScript", "Python"],
   "tools": ["Unity", "Unreal Engine"],
-
+  "Email": "bigj.devacc@gmail.com",
 }
