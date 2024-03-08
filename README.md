@@ -7,4 +7,5 @@
   "preferred_languages": ["HTML5", "JavaScript", "Python"],
   "tools": ["Unity", "Unreal Engine"],
   "Email": "bigj.devacc@gmail.com",
+  "projects": ["FunByte, Pico11"],
 }
