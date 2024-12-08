@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently working on Pico11<br>
+Currently working on Pico11, Funbyte<br>
+
 
 
 ## 🌐 Socials:
@@ -22,6 +23,4 @@ Currently working on Pico11<br>
 ![](https://github-contributor-stats.vercel.app/api?username=BIGJ42&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BIGJ42&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=bigj42)
