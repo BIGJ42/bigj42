@@ -7,6 +7,6 @@
   "preferred_languages": ["HTML5", "JavaScript", "CSS", "Python"],
   "tools": ["Unity", "Unreal Engine, Odin Flash Tool, Cloudflare"],
   "Email": "bigj.devacc@gmail.com",
-  "projects": ["FunByte, Pico11, AllCoreBoot"],
+  "projects": ["FunByte, Pico11"],
   "hobbies": ["Android tinkering, Custom Romming, General Technological Shenanigans."],
 }
