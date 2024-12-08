@@ -1,5 +1,11 @@
 # 💫 About Me:
-Currently working on Pico11, Funbyte<br>
+👋 Hey there! I'm a passionate developer working on:  
+- **Pico11**: A sleek, customized, and debloated version of Windows 11.  
+- **Funbyte**: Stay tuned for details on this exciting project!  
+
+💻 I enjoy creating minimalist and clean designs, tinkering with custom ROMs, and pushing the boundaries of customization.  
+
+🌱 Currently exploring innovative ways to simplify tech experiences.  
 
 
 
