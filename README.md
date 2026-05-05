@@ -5,17 +5,14 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on in
 
 ## About Me
 
-- 🌱 I’m currently working on **Pico11, Funbyte, Passy**
-- 👯 I’m looking to collaborate on **passy**
-- 💬 Ask me about **HTML etc**
+- 🌱 I’m currently working on **Pico11, Funbyte**
+- 👯 I’m looking to collaborate on **Pico11**
 - 📫 How to reach me: **Email (below)**
-- ⚡ Fun fact: **Love minimalist designs**
 
 ## Skills
 
-- **Languages:** HTML, CSS, JS, Python
-- **Frameworks:** N/A
-- **Tools:** Visual Studio Code, Git
+- **Languages:** HTML, CSS, JS, Python, (Some Kotlin (Android apps) and Swift (IOS apps) stuff)
+- **Tools:** Visual Studio Code, Git, Antigravity, Android Studio, Xcode
 
 ## Projects
 
